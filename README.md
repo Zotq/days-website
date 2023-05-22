@@ -1,5 +1,5 @@
 # days-website
-A travelling website project with GSAP + ScrollMagic for animations and Barba.js for sliding animation
+A travelling website project with GSAP(GreenSock)+ ScrollMagic for animations and Barba.js for sliding animation
 
 https://zotqdays.netlify.app/
 
