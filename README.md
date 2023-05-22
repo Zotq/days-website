@@ -3,5 +3,7 @@ A travelling website project with GSAP(GreenSock)+ ScrollMagic for animations an
 
 https://zotqdays.netlify.app/
 
-https://github.com/Zotq/days-website/assets/88341255/11502c73-3d0c-4243-a9e6-28c249100f5f
+https://github.com/Zotq/days-website/assets/88341255/853d6443-3cc7-43a3-98be-406a98a3090d
+
+
 
